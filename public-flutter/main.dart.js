@@ -51953,7 +51953,7 @@ au(){return new A.Fa(B.m)}}
 A.Fa.prototype={
 o1(){var s=0,r=A.a0(t.z),q=1,p,o=this,n,m,l,k,j,i,h
 var $async$o1=A.a1(function(a,b){if(a===1){p=b
-s=q}while(true)switch(s){case 0:j="https://planningfacilead.b2clogin.com/planningfacilead.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1_Email&client_id=e0838e97-6d67-4b66-afad-a32412fbe5a8&nonce=defaultNonce&redirect_uri=https%3A%2F%2Fplaningmasterfront.azurewebsites.net%2Fcpimextensions&scope=openid&response_type=id_token&prompt=login"
+s=q}while(true)switch(s){case 0:j="https://planningfacilead.b2clogin.com/planningfacilead.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1_Email&client_id=e0838e97-6d67-4b66-afad-a32412fbe5a8&nonce=defaultNonce&redirect_uri=https%3A%2F%2Fplaningmasterfront.azurewebsites.net%2Fcpimextensions.html&scope=openid&response_type=id_token&prompt=login"
 i="com.onmicrosoft.planningfacilead"
 q=3
 s=6
