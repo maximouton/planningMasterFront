@@ -66538,7 +66538,7 @@ aj(){return new A.KS(B.k)}}
 A.KS.prototype={
 ta(){var s=0,r=A.Z(t.z),q=1,p,o=this,n,m,l,k,j,i,h
 var $async$ta=A.a_(function(a,b){if(a===1){p=b
-s=q}while(true)switch(s){case 0:j="https://planningfacilead.b2clogin.com/planningfacilead.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1_Email&client_id=e0838e97-6d67-4b66-afad-a32412fbe5a8&nonce=defaultNonce&redirect_uri=https%3A%2F%2Fplaningmasterfront.azurewebsites.net%2Fauth.html&scope=e0838e97-6d67-4b66-afad-a32412fbe5a8%20openid%20offline_access&response_type=code&prompt=login"
+s=q}while(true)switch(s){case 0:j="https://planningfacilead.b2clogin.com/planningfacilead.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1_Email&client_id=e0838e97-6d67-4b66-afad-a32412fbe5a8&nonce=defaultNonce&redirect_uri=https%3A%2F%2Fplaningmasterfront.azurewebsites.net%2Fauth.html&scope=planningfacilead.onmicrosoft.com/e0838e97-6d67-4b66-afad-a32412fbe5a8/auth/DataObject%20openid%20offline_access&response_type=code&prompt=login"
 i="com.onmicrosoft.planningfacilead"
 q=3
 s=6
