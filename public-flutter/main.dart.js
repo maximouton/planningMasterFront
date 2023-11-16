@@ -80614,7 +80614,7 @@ $0(){},
 $S:0}
 A.aiE.prototype={
 $2(a,b){var s,r=null
-switch(b.a.a){case 0:return A.lg(new A.z2("Authenticated"+b.b,r),r,r)
+switch(b.a.a){case 0:return A.lg(new A.z2("Authenticated "+b.b,r),r,r)
 case 1:s=A.iQ(a,B.a3F,t.AY)
 s.toString
 return A.lg(A.hk(s.ahm(0,$.aCe().E(0,"Unauthenticated")),r,r,r,r,r,r),r,r)}},
@@ -80689,9 +80689,10 @@ q=3
 s=6
 return A.a7(A.a4Z("com.onmicrosoft.planningfacilead","https://planningfacilead.b2clogin.com/planningfacilead.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1_Email&client_id=e0838e97-6d67-4b66-afad-a32412fbe5a8&nonce=defaultNonce&redirect_uri=https%3A%2F%2Fplaningmasterfront.azurewebsites.net%2Fauth.html&scope=openid&response_type=id_token&prompt=login"),$async$wr)
 case 6:m=b
-o.c=J.apv(m,"id_token=")[1]
+j=J.apv(m,"id_token=")[1]
+o.c=j
+o.b.E(0,j)
 o.a.E(0,B.lT)
-o.b.E(0,o.c)
 n.R1(B.nF,"Authentication succeeded "+A.j(J.apv(m,"id_token=")[1]),null,null,null)
 q=1
 s=5
