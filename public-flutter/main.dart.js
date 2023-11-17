@@ -80573,7 +80573,7 @@ p=A.a([r,q,A.h6(B.fc,new A.Iw(new A.aky(a),o,o,o,A.Q(a).a1.a,B.x,o,!1,o,!0,p,o),
 return new A.uZ(s,p,B.Wa,!0,new A.Wu(o,o,1/0,56),o)}}
 A.akw.prototype={
 $2(a,b){var s,r=null
-switch(b.a.a){case 0:return A.it(A.awi("Authenticated "+A.j(b.b)),r,r)
+switch(b.a.a){case 0:return A.it(A.awi("Authenticated"),r,r)
 case 1:s=A.hI(a,B.EM,t.AY)
 s.toString
 return A.it(A.fV(s.Sl(0,$.aCh().E(0,"Unauthenticated")),r,r,r,r,r,r),r,r)}},
