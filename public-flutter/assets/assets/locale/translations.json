@@ -3,6 +3,26 @@
         "Unauthenticated":{
             "en":"Unauthenticated",
             "fr":"Non connecté"
+        },
+        "NotLinked":{
+                "en":"You are currently linked to no team",
+                "fr":"Vous n’êtes lié à aucune équipe pour le moment"
+        },
+        "NewTeam":{
+                "en":"Create a new team",
+                "fr":"Créer une nouvelle équipe"
+        },
+        "CreateTeam":{
+                "en":"Create team",
+                "fr":"Créer l'équipe"
+        },
+        "JoinTeam":{
+                "en":"Or ask to join an existing team with the team code (ask team admin to get the code)",
+                "fr":"Ou demander à rejoindre une équipe (demander à l'administrateur pour obtenir le code)"
+        },
+        "Join":{
+                "en":"Join",
+                "fr":"Rejoindre"
         }
     }
 }
