@@ -85837,7 +85837,7 @@ var $async$vj=A.V(function(b,c){if(b===1)return A.a_(c,r)
 while(true)switch(s){case 0:m=t.z
 l=t.N
 s=3
-return A.a6(p.a.abR("GET",A.aDQ("https","dataobjects.azure-api.net","/Databjects/Objects/Teams",null),A.yt(A.aA(["Access-Control-Allow-Origin","https://planingmasterfront.azurewebsites.net","Content-Type","application/json","Authorization","Bearer "+a],m,m),l,l)).t6(new A.aag()),$async$vj)
+return A.a6(p.a.abR("GET",A.aDQ("https","dataobjects.azure-api.net","/Databjects/Objects/Teams",null),A.yt(A.aA(["Access-Control-Allow-Origin","*","Content-Type","application/json","Authorization","Bearer "+a],m,m),l,l)).t6(new A.aag()),$async$vj)
 case 3:k=c
 m=k.b
 if(m===204){m=J.p4(0,t.J1)
