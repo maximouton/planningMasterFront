@@ -56,9 +56,111 @@
                         "en": "Custom",
                         "fr": "Personalisé"
                 },
-                "actiityHours": {
-                        "en": "Activity hours",
-                        "fr": "Horraire d'activité"
+                "activityHours": {
+                        "en": "Activity hours list",
+                        "fr": "Liste d'horraires d'activité"
+                },
+                "pleaseSelect": {
+                        "en": "Please select ...",
+                        "fr": "Choisir ..."
+                },
+                "addActivityTimeType": {
+                        "en": "Add an activity hours type",
+                        "fr": "Ajouter à type d'horaire"
+                },
+                "activityList": {
+                        "en": "Activity type list",
+                        "fr": "List des types d'activité"
+                },
+                "addActivityTime": {
+                        "en": "Add an activity type",
+                        "fr": "Ajouter à type d'activité"
+                },
+                "monday": {
+                        "en": "Monday",
+                        "fr": "Lundi"
+                },
+                "tuesday": {
+                        "en": "Tuesday",
+                        "fr": "Mardi"
+                },
+                "wednesday": {
+                        "en": "Wednesday",
+                        "fr": "Mercredi"
+                },
+                "thursday": {
+                        "en": "Thursday",
+                        "fr": "Jeudi"
+                },
+                "friday": {
+                        "en": "Friday",
+                        "fr": "Vendredi"
+                },
+                "saturday": {
+                        "en": "Saturday",
+                        "fr": "Samedi"
+                },
+                "sunday": {
+                        "en": "Sunday",
+                        "fr": "Dimanche"
+                },
+                "ferie": {
+                        "en": "Closed days",
+                        "fr": "Jours fériés"
+                },
+                "confirm": {
+                        "en": "Confirm",
+                        "fr": "Valider"
+                }
+        },
+        "preference": {
+                "addPreference": {
+                        "en": "Add a new preference",
+                        "fr": "Ajouter une nouvelle préférence"
+                },
+                "team":{
+                        "en": "For whole team",
+                        "fr": "Pour toute l'équipe"  
+                },
+                "teamOrInd":{
+                        "en": "For whole team and individual",
+                        "fr": "Pour toute l'équipe et individuelle"  
+                },
+                "ind":{
+                        "en": "Individual only",
+                        "fr": "Uniquement individuelle"  
+                },
+                "pleaseSelect":{
+                        "en": "Click to select a value",
+                        "fr": "Cliquer pour choisir une valeur"  
+                },
+                "hourPerformed":{
+                        "en": "Hours performed",
+                        "fr": "Heures effectuées"  
+                },
+                "workDays":{
+                        "en": "Working days",
+                        "fr": "Jour de travail"  
+                },
+                "activityNum":{
+                        "en": "Number of activities performed",
+                        "fr": "Nombre d'activités réalisées"  
+                },
+                "weekendWorked":{
+                        "en": "Working weekends",
+                        "fr": "Weekends travaillés"  
+                },
+                "poepleAffinity":{
+                        "en": "People affinity",
+                        "fr": "Affinité de personnes"  
+                },
+                "activitiesInARow":{
+                        "en": "Activities in a raw",
+                        "fr": "Enchainement d'activités"  
+                },
+                "activitiesInARowOccurence":{
+                        "en": "Occurence of activities in a raw",
+                        "fr": "Occurance d'enchainement d'activités"  
                 }
         }
 }
