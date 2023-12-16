@@ -161,6 +161,27 @@
                 "activitiesInARowOccurence":{
                         "en": "Occurence of activities in a raw",
                         "fr": "Occurance d'enchainement d'activités"  
+                },
+                "period":{
+                        "en": "Over a period of",
+                        "fr": "Sur une période de"  
+                },
+                "activityType":{
+                        "en": "Activity types:",
+                        "fr": "Types d'activité:"  
+                },
+                "segment":{
+                        "en": "Segments:",
+                        "fr": "Segments:"  
+                },
+                "days":{
+                        "en": "days",
+                        "fr": "jours"  
+                },
+                "preferenceName":{
+                        "en": "Preference name",
+                        "fr": "Intitulé de la préférence"  
                 }
+
         }
 }
