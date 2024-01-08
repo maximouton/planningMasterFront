@@ -111,6 +111,14 @@
                 "confirm": {
                         "en": "Confirm",
                         "fr": "Valider"
+                },
+                "activityTimeType": {
+                        "en": "Activity time type",
+                        "fr": "Type d'horaire"
+                },
+                "activityType": {
+                        "en": "Activity type",
+                        "fr": "Type d'activité"
                 }
         },
         "preference": {
@@ -177,10 +185,74 @@
                 "days":{
                         "en": "days",
                         "fr": "jours"  
-                },
+                }, 
                 "preferenceName":{
                         "en": "Preference name",
                         "fr": "Intitulé de la préférence"  
+                },
+                "lessOrEqual":{
+                        "en": "<=",
+                        "fr": "<="  
+                }, 
+                "moreOrEqual":{
+                        "en": ">=",
+                        "fr": ">="  
+                },
+                "equal":{
+                        "en": "=",
+                        "fr": "="  
+                },
+                "scale":{
+                        "en": "Value scale",
+                        "fr": "Echelle de valeur"  
+                },
+                "referenceValueNone":{
+                        "en": "No variable",
+                        "fr": "Pas de variable"  
+                },
+                "hoursObjective":{
+                        "en": "Hours in period objective",
+                        "fr": "Objectif d'heures sur la période"  
+                },
+                "activityNbObjective":{
+                        "en": "Number of activities objective",
+                        "fr": "Objectif de nombre d'activités"  
+                },
+                "segmentRatio":{
+                        "en": "Segment ratio",
+                        "fr": "Ratio de segment"  
+                },
+                "typeRatio":{
+                        "en": "Activity type ratio",
+                        "fr": "Ratio de types d'activité"  
+                },
+                "occurenceTypeWith":{
+                        "en": "Number of activity in common with",
+                        "fr": "Nombre d'activités en commun avec"  
+                },
+                "adition":{
+                        "en": "+",
+                        "fr": "+"  
+                },
+                "multiply":{
+                        "en": "x",
+                        "fr": "x"  
+                },
+                "multiplyPercent":{
+                        "en": "x%",
+                        "fr": "x%"  
+                },
+                "lowerBound":{
+                        "en": "lower bound",
+                        "fr": "valeur minimum"  
+                },
+                "upperBound":{
+                        "en": "upper bound",
+                        "fr": "valeur maximum"  
+                },
+                "stepName":{
+                        "en": "step name",
+                        "fr": "nom du step"  
                 }
 
         }
