@@ -114,11 +114,15 @@
                 },
                 "activityTimeType": {
                         "en": "Activity time type",
-                        "fr": "Type d'horaire"
+                        "fr": "Type d'horaire" 
                 },
                 "activityType": {
                         "en": "Activity type",
                         "fr": "Type d'activité"
+                },
+                "workingTime": {
+                        "en": "Weekly working time",
+                        "fr": "Temps de travail hebdomadaire"
                 }
         },
         "preference": {

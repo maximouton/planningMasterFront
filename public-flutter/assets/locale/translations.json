@@ -1,8 +1,396 @@
 {
-    "home":{
-        "Unauthenticated":{
-            "en":"Unauthenticated",
-            "fr":"Non connecté"
+        "transverse": {
+                "missingValue": {
+                        "en": "Please enter a value",
+                        "fr": "Veuillez saisir une valeur"
+                },
+                "confirm": {
+                        "en": "Confirm",
+                        "fr": "Valider"
+                }
+        },
+        "home": {
+                "Unauthenticated": {
+                        "en": "Unauthenticated",
+                        "fr": "Non connecté"
+                },
+                "NotLinked": {
+                        "en": "You are currently linked to no team",
+                        "fr": "Vous n’êtes lié à aucune équipe pour le moment"
+                },
+                "NewTeam": {
+                        "en": "Create a new team",
+                        "fr": "Créer une nouvelle équipe"
+                },
+                "CreateTeam": {
+                        "en": "Create team",
+                        "fr": "Créer l'équipe"
+                },
+                "JoinTeam": {
+                        "en": "Or ask to join an existing team with the team code (ask team admin to get the code)",
+                        "fr": "Ou demander à rejoindre une équipe (demander à l'administrateur pour obtenir le code)"
+                },
+                "Join": {
+                        "en": "Join",
+                        "fr": "Rejoindre"
+                }
+        },
+        "activity": {
+                "segmentsType": {
+                        "en": "Segment type:",
+                        "fr": "Type de segement:"
+                },
+                "segmentsMessage": {
+                        "en": "Segments help segregate main types of activities. This useful when you want to set preference based on activity type. Typical segregation is between days and night activities but you may use this segregation for any types of activity.",
+                        "fr": "La notion de segment permet de différencier des types d'activités. Elle est utilies si vous voulez construire des préférence qui prennent en compte le type d'activité. Les segments peuvent par exemple permettre de différencier les activités de jour et les activité de nuits."
+                },
+                "dayNight": {
+                        "en": "Day/Night",
+                        "fr": "Jour/Nuit"
+                },
+                "threeEight": {
+                        "en": "3/8",
+                        "fr": "3/8"
+                },
+                "none": {
+                        "en": "None",
+                        "fr": "Aucun"
+                },
+                "custom": {
+                        "en": "Custom",
+                        "fr": "Personalisé"
+                },
+                "activityHours": {
+                        "en": "Activity hours list",
+                        "fr": "Liste d'horraires d'activité"
+                },
+                "pleaseSelect": {
+                        "en": "Please select ...",
+                        "fr": "Choisir ..."
+                },
+                "addActivityTimeType": {
+                        "en": "Add an activity hours type",
+                        "fr": "Ajouter à type d'horaire"
+                },
+                "activityList": {
+                        "en": "Activity type list",
+                        "fr": "List des types d'activité"
+                },
+                "addActivityTime": {
+                        "en": "Add an activity type",
+                        "fr": "Ajouter à type d'activité"
+                },
+                "monday": {
+                        "en": "Monday",
+                        "fr": "Lundi"
+                },
+                "tuesday": {
+                        "en": "Tuesday",
+                        "fr": "Mardi"
+                },
+                "wednesday": {
+                        "en": "Wednesday",
+                        "fr": "Mercredi"
+                },
+                "thursday": {
+                        "en": "Thursday",
+                        "fr": "Jeudi"
+                },
+                "friday": {
+                        "en": "Friday",
+                        "fr": "Vendredi"
+                },
+                "saturday": {
+                        "en": "Saturday",
+                        "fr": "Samedi"
+                },
+                "sunday": {
+                        "en": "Sunday",
+                        "fr": "Dimanche"
+                },
+                "ferie": {
+                        "en": "Closed days",
+                        "fr": "Jours fériés"
+                },
+                "activityTimeType": {
+                        "en": "Activity time type",
+                        "fr": "Type d'horaire" 
+                },
+                "activityType": {
+                        "en": "Activity type",
+                        "fr": "Type d'activité"
+                },
+                "workingTime": {
+                        "en": "Weekly working time",
+                        "fr": "Temps de travail hebdomadaire"
+                }
+        },
+        "preference": {
+                "addPreference": {
+                        "en": "Add a new rule",
+                        "fr": "Ajouter une nouvelle règle"
+                },
+                "team":{
+                        "en": "To whole team",
+                        "fr": "A toute l'équipe"  
+                },
+                "teamOrInd":{
+                        "en": "To whole team and individual",
+                        "fr": "A toute l'équipe et individuelle"  
+                },
+                "ind":{
+                        "en": "Individualy only",
+                        "fr": "Uniquement individuellement"  
+                },
+                "pleaseSelect":{
+                        "en": "Click to select a value",
+                        "fr": "Cliquer pour choisir une valeur"  
+                },
+                "hourPerformed":{
+                        "en": "Hours performed",
+                        "fr": "Heures effectuées"  
+                },
+                "workDays":{
+                        "en": "Working days",
+                        "fr": "Jour de travail"  
+                },
+                "activityNum":{
+                        "en": "Number of activities performed",
+                        "fr": "Nombre d'activités réalisées"  
+                },
+                "weekendWorked":{
+                        "en": "Working weekends",
+                        "fr": "Weekends travaillés"  
+                },
+                "poepleAffinity":{
+                        "en": "People affinity",
+                        "fr": "Affinité de personnes"  
+                },
+                "activitiesInARow":{
+                        "en": "Activities in a raw",
+                        "fr": "Enchainement d'activités"  
+                },
+                "activitiesInARowOccurence":{
+                        "en": "Occurence of activities in a raw",
+                        "fr": "Occurance d'enchainement d'activités"  
+                },
+                "period":{
+                        "en": "Over a period of",
+                        "fr": "Sur une période de"  
+                },
+                "activityType":{
+                        "en": "Activity types:",
+                        "fr": "Types d'activité:"  
+                },
+                "segment":{
+                        "en": "Segments:",
+                        "fr": "Segments:"  
+                },
+                "days":{
+                        "en": "days",
+                        "fr": "jours"  
+                }, 
+                "preferenceName":{
+                        "en": "Rule name",
+                        "fr": "Intitulé de la règle"  
+                },
+                "lessOrEqual":{
+                        "en": "is less than or equal",
+                        "fr": "est inférieur ou égale à"  
+                }, 
+                "moreOrEqual":{
+                        "en": "is more or equal than",
+                        "fr": "est suppérieur ou égal à"  
+                },
+                "equal":{
+                        "en": "is equal to",
+                        "fr": "est égal à"  
+                },
+                "scale":{
+                        "en": "is in a value scale",
+                        "fr": "est comprise dans une echelle de valeur"  
+                },
+                "referenceValueNone":{
+                        "en": "No variable",
+                        "fr": "Pas de variable"  
+                },
+                "hoursObjective":{
+                        "en": "Hours in period objective",
+                        "fr": "Objectif d'heures sur la période"  
+                },
+                "activityNbObjective":{
+                        "en": "Number of activities objective",
+                        "fr": "Objectif de nombre d'activités"  
+                },
+                "segmentRatio":{
+                        "en": "Segment ratio",
+                        "fr": "Ratio de segment"  
+                },
+                "typeRatio":{
+                        "en": "Activity type ratio",
+                        "fr": "Ratio de types d'activité"  
+                },
+                "occurenceTypeWith":{
+                        "en": "Number of activity in common with",
+                        "fr": "Nombre d'activités en commun avec"  
+                },
+                "adition":{
+                        "en": "+",
+                        "fr": "+"  
+                },
+                "multiply":{
+                        "en": "x",
+                        "fr": "x"  
+                },
+                "multiplyPercent":{
+                        "en": "x%",
+                        "fr": "x%"  
+                },
+                "lowerBound":{
+                        "en": "lower bound",
+                        "fr": "valeur minimum"  
+                },
+                "upperBound":{
+                        "en": "upper bound",
+                        "fr": "valeur maximum"  
+                },
+                "stepName":{
+                        "en": "step name",
+                        "fr": "nom du step"  
+                },
+                "inputType":{
+                        "en": "The rule apply on...",
+                        "fr": "La règle s'applique sur..."  
+                },
+                "limits":{
+                        "en": "... which limits ...",
+                        "fr": "... qui se limite ..."  
+                },
+                "ruleApplies":{
+                        "en": "Rule applies:",
+                        "fr": "La règle s'applique :"  
+                },
+                "operator":{
+                        "en": "This value must be ",
+                        "fr": "Cette valeur doit être "  
+                },
+                "referenceValue":{
+                        "en": "Reference value",
+                        "fr": "Valeur de référence"  
+                },
+                "ruleInWords":{
+                        "en": "Rule description",
+                        "fr": "Description de la règle"
+                },
+                "pleaseFillPreference":{
+                        "en": "Please set the rule.",
+                        "fr": "Veuillez configurer la règle"
+                },
+                "thisRule":{
+                        "en": "Please set the rule.",
+                        "fr": "Veuillez configurer la règle"
+                }
+
+        },
+        "memberDetails": {
+                "firstName" :{
+                        "en": "First name",
+                        "fr": "Prénom"
+                },
+                "lastName" :{
+                        "en": "Last name",
+                        "fr": "Nom de famille"
+                },
+                "workingRatio" :{
+                        "en": "Working time ratio",
+                        "fr": "Proportion de temps de travail"
+                },
+                "allowedActivity" :{
+                        "en": "Activities performed",
+                        "fr": "Activités réalisées"
+                },
+                "eligibleDays" :{
+                        "en": "Working days",
+                        "fr": "Jours travaillés"
+                },
+                "personalPreference" :{
+                        "en": "Personal preferences",
+                        "fr": "Préferences personnelles"
+                },
+                "preferenceValue" :{
+                        "en": "Preference",
+                        "fr": "Préference"
+                },
+                "confirm": {
+                        "en": "Confirm",
+                        "fr": "Valider"
+                }
+        },
+        "planning":{
+                "newPlanning":{
+                        "en": "New plan",
+                        "fr": "Nouveau planning"
+                },
+                "noPlanning":{
+                        "en": "You have no create plan yet",
+                        "fr": "Vous n'avez pas encore créé de planning"
+                },
+                "startHere":{
+                        "en": "Start here",
+                        "fr": "Commencer ici" 
+                },
+                "name":{
+                        "en": "Plan name",
+                        "fr": "Nom du planning"
+                },
+                "draft":{
+                        "en": "Draft",
+                        "fr": "Brouillon"
+                },
+                "published":{
+                        "en": "Published",
+                        "fr": "Publié"
+                },
+                "validated":{
+                        "en": "Validated",
+                        "fr": "Validé"
+                },
+                "planDateRange":{
+                        "en": "Plan date range",
+                        "fr": "Durée du planning"
+                },
+                "feries":{
+                        "en": "Non-working days",
+                        "fr": "Fériés"
+                },
+                "memberName":{
+                        "en": "Team member",
+                        "fr": "Membre d'équipe"
+                },
+                "noFeries":{
+                        "en": "No Non-working days selected",
+                        "fr": "Pas de date séléctionnée"
+                },
+                "defaultValue":{
+                        "en": "Default value",
+                        "fr": "Valeur par défault"
+                },
+                "planPreference":{
+                        "en": "Plan specific preferences",
+                        "fr": "Préferences spécific au planning"
+                },
+                "segment":{
+                        "en": "Segment",
+                        "fr": "Segment"
+                },
+                "nonAffected":{
+                        "en": "Not afected",
+                        "fr": "Non affecté"
+                },
+                "removeAffectation":{
+                        "en": "Remove affectation",
+                        "fr": "Retirer l'affectation"
+                }
+
         }
-    }
 }
