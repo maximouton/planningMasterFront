@@ -7,6 +7,34 @@
                 "confirm": {
                         "en": "Confirm",
                         "fr": "Valider"
+                },
+                "addOrJoinTeam": {
+                        "en": "Create or join team",
+                        "fr": "Créer ou rejoindre une équipe"
+                },
+                "accessManagement": {
+                        "en": "Access management",
+                        "fr": "Gestion des accès"
+                },
+                "myPlanning": {
+                        "en": "My plannings",
+                        "fr": "Mes plannings"
+                },
+                "teamsRules": {
+                        "en": "Team rules",
+                        "fr": "Règles d'équipe"
+                },
+                "configuration": {
+                        "en": "Configuration",
+                        "fr": "Configuration"
+                },
+                "activities": {
+                        "en": "Activities",
+                        "fr": "Activités"
+                },
+                "team": {
+                        "en": "Team's members",
+                        "fr": "Membre de l'équipe"
                 }
         },
         "home": {
@@ -33,6 +61,10 @@
                 "Join": {
                         "en": "Join",
                         "fr": "Rejoindre"
+                },
+                "associationId": {
+                        "en": "Association code",
+                        "fr": "Code d'association"
                 }
         },
         "activity": {
@@ -114,7 +146,7 @@
                 },
                 "activityTimeType": {
                         "en": "Activity time type",
-                        "fr": "Type d'horaire" 
+                        "fr": "Type d'horaire"
                 },
                 "activityType": {
                         "en": "Activity type",
@@ -130,194 +162,193 @@
                         "en": "Add a new rule",
                         "fr": "Ajouter une nouvelle règle"
                 },
-                "team":{
+                "team": {
                         "en": "To whole team",
-                        "fr": "A toute l'équipe"  
+                        "fr": "A toute l'équipe"
                 },
-                "teamOrInd":{
+                "teamOrInd": {
                         "en": "To whole team and individual",
-                        "fr": "A toute l'équipe et individuelle"  
+                        "fr": "A toute l'équipe et individuelle"
                 },
-                "ind":{
+                "ind": {
                         "en": "Individualy only",
-                        "fr": "Uniquement individuellement"  
+                        "fr": "Uniquement individuellement"
                 },
-                "pleaseSelect":{
+                "pleaseSelect": {
                         "en": "Click to select a value",
-                        "fr": "Cliquer pour choisir une valeur"  
+                        "fr": "Cliquer pour choisir une valeur"
                 },
-                "hourPerformed":{
+                "hourPerformed": {
                         "en": "Hours performed",
-                        "fr": "Heures effectuées"  
+                        "fr": "Heures effectuées"
                 },
-                "workDays":{
+                "workDays": {
                         "en": "Working days",
-                        "fr": "Jour de travail"  
+                        "fr": "Jour de travail"
                 },
-                "activityNum":{
+                "activityNum": {
                         "en": "Number of activities performed",
-                        "fr": "Nombre d'activités réalisées"  
+                        "fr": "Nombre d'activités réalisées"
                 },
-                "weekendWorked":{
+                "weekendWorked": {
                         "en": "Working weekends",
-                        "fr": "Weekends travaillés"  
+                        "fr": "Weekends travaillés"
                 },
-                "poepleAffinity":{
+                "poepleAffinity": {
                         "en": "People affinity",
-                        "fr": "Affinité de personnes"  
+                        "fr": "Affinité de personnes"
                 },
-                "activitiesInARow":{
+                "activitiesInARow": {
                         "en": "Activities in a raw",
-                        "fr": "Enchainement d'activités"  
+                        "fr": "Enchainement d'activités"
                 },
-                "activitiesInARowOccurence":{
+                "activitiesInARowOccurence": {
                         "en": "Occurence of activities in a raw",
-                        "fr": "Occurance d'enchainement d'activités"  
+                        "fr": "Occurance d'enchainement d'activités"
                 },
-                "period":{
+                "period": {
                         "en": "Over a period of",
-                        "fr": "Sur une période de"  
+                        "fr": "Sur une période de"
                 },
-                "activityType":{
+                "activityType": {
                         "en": "Activity types:",
-                        "fr": "Types d'activité:"  
+                        "fr": "Types d'activité:"
                 },
-                "segment":{
+                "segment": {
                         "en": "Segments:",
-                        "fr": "Segments:"  
+                        "fr": "Segments:"
                 },
-                "days":{
+                "days": {
                         "en": "days",
-                        "fr": "jours"  
-                }, 
-                "preferenceName":{
+                        "fr": "jours"
+                },
+                "preferenceName": {
                         "en": "Rule name",
-                        "fr": "Intitulé de la règle"  
+                        "fr": "Intitulé de la règle"
                 },
-                "lessOrEqual":{
+                "lessOrEqual": {
                         "en": "is less than or equal",
-                        "fr": "est inférieur ou égale à"  
-                }, 
-                "moreOrEqual":{
+                        "fr": "est inférieur ou égale à"
+                },
+                "moreOrEqual": {
                         "en": "is more or equal than",
-                        "fr": "est suppérieur ou égal à"  
+                        "fr": "est suppérieur ou égal à"
                 },
-                "equal":{
+                "equal": {
                         "en": "is equal to",
-                        "fr": "est égal à"  
+                        "fr": "est égal à"
                 },
-                "scale":{
+                "scale": {
                         "en": "is in a value scale",
-                        "fr": "est comprise dans une echelle de valeur"  
+                        "fr": "est comprise dans une echelle de valeur"
                 },
-                "referenceValueNone":{
+                "referenceValueNone": {
                         "en": "No variable",
-                        "fr": "Pas de variable"  
+                        "fr": "Pas de variable"
                 },
-                "hoursObjective":{
+                "hoursObjective": {
                         "en": "Hours in period objective",
-                        "fr": "Objectif d'heures sur la période"  
+                        "fr": "Objectif d'heures sur la période"
                 },
-                "activityNbObjective":{
+                "activityNbObjective": {
                         "en": "Number of activities objective",
-                        "fr": "Objectif de nombre d'activités"  
+                        "fr": "Objectif de nombre d'activités"
                 },
-                "segmentRatio":{
+                "segmentRatio": {
                         "en": "Segment ratio",
-                        "fr": "Ratio de segment"  
+                        "fr": "Ratio de segment"
                 },
-                "typeRatio":{
+                "typeRatio": {
                         "en": "Activity type ratio",
-                        "fr": "Ratio de types d'activité"  
+                        "fr": "Ratio de types d'activité"
                 },
-                "occurenceTypeWith":{
+                "occurenceTypeWith": {
                         "en": "Number of activity in common with",
-                        "fr": "Nombre d'activités en commun avec"  
+                        "fr": "Nombre d'activités en commun avec"
                 },
-                "adition":{
+                "adition": {
                         "en": "+",
-                        "fr": "+"  
+                        "fr": "+"
                 },
-                "multiply":{
+                "multiply": {
                         "en": "x",
-                        "fr": "x"  
+                        "fr": "x"
                 },
-                "multiplyPercent":{
+                "multiplyPercent": {
                         "en": "x%",
-                        "fr": "x%"  
+                        "fr": "x%"
                 },
-                "lowerBound":{
+                "lowerBound": {
                         "en": "lower bound",
-                        "fr": "valeur minimum"  
+                        "fr": "valeur minimum"
                 },
-                "upperBound":{
+                "upperBound": {
                         "en": "upper bound",
-                        "fr": "valeur maximum"  
+                        "fr": "valeur maximum"
                 },
-                "stepName":{
+                "stepName": {
                         "en": "step name",
-                        "fr": "nom du step"  
+                        "fr": "nom du step"
                 },
-                "inputType":{
+                "inputType": {
                         "en": "The rule apply on...",
-                        "fr": "La règle s'applique sur..."  
+                        "fr": "La règle s'applique sur..."
                 },
-                "limits":{
+                "limits": {
                         "en": "... which limits ...",
-                        "fr": "... qui se limite ..."  
+                        "fr": "... qui se limite ..."
                 },
-                "ruleApplies":{
+                "ruleApplies": {
                         "en": "Rule applies:",
-                        "fr": "La règle s'applique :"  
+                        "fr": "La règle s'applique :"
                 },
-                "operator":{
+                "operator": {
                         "en": "This value must be ",
-                        "fr": "Cette valeur doit être "  
+                        "fr": "Cette valeur doit être "
                 },
-                "referenceValue":{
+                "referenceValue": {
                         "en": "Reference value",
-                        "fr": "Valeur de référence"  
+                        "fr": "Valeur de référence"
                 },
-                "ruleInWords":{
+                "ruleInWords": {
                         "en": "Rule description",
                         "fr": "Description de la règle"
                 },
-                "pleaseFillPreference":{
+                "pleaseFillPreference": {
                         "en": "Please set the rule.",
                         "fr": "Veuillez configurer la règle"
                 },
-                "thisRule":{
+                "thisRule": {
                         "en": "Please set the rule.",
                         "fr": "Veuillez configurer la règle"
                 }
-
         },
         "memberDetails": {
-                "firstName" :{
+                "firstName": {
                         "en": "First name",
                         "fr": "Prénom"
                 },
-                "lastName" :{
+                "lastName": {
                         "en": "Last name",
                         "fr": "Nom de famille"
                 },
-                "workingRatio" :{
+                "workingRatio": {
                         "en": "Working time ratio",
                         "fr": "Proportion de temps de travail"
                 },
-                "allowedActivity" :{
+                "allowedActivity": {
                         "en": "Activities performed",
                         "fr": "Activités réalisées"
                 },
-                "eligibleDays" :{
+                "eligibleDays": {
                         "en": "Working days",
                         "fr": "Jours travaillés"
                 },
-                "personalPreference" :{
+                "personalPreference": {
                         "en": "Personal preferences",
                         "fr": "Préferences personnelles"
                 },
-                "preferenceValue" :{
+                "preferenceValue": {
                         "en": "Preference",
                         "fr": "Préference"
                 },
@@ -326,71 +357,80 @@
                         "fr": "Valider"
                 }
         },
-        "planning":{
-                "newPlanning":{
+        "planning": {
+                "newPlanning": {
                         "en": "New plan",
                         "fr": "Nouveau planning"
                 },
-                "noPlanning":{
+                "noPlanning": {
                         "en": "You have no create plan yet",
                         "fr": "Vous n'avez pas encore créé de planning"
                 },
-                "startHere":{
+                "startHere": {
                         "en": "Start here",
-                        "fr": "Commencer ici" 
+                        "fr": "Commencer ici"
                 },
-                "name":{
+                "name": {
                         "en": "Plan name",
                         "fr": "Nom du planning"
                 },
-                "draft":{
+                "draft": {
                         "en": "Draft",
                         "fr": "Brouillon"
                 },
-                "published":{
+                "published": {
                         "en": "Published",
                         "fr": "Publié"
                 },
-                "validated":{
+                "validated": {
                         "en": "Validated",
                         "fr": "Validé"
                 },
-                "planDateRange":{
+                "planDateRange": {
                         "en": "Plan date range",
                         "fr": "Durée du planning"
                 },
-                "feries":{
+                "feries": {
                         "en": "Non-working days",
                         "fr": "Fériés"
                 },
-                "memberName":{
+                "memberName": {
                         "en": "Team member",
                         "fr": "Membre d'équipe"
                 },
-                "noFeries":{
+                "noFeries": {
                         "en": "No Non-working days selected",
                         "fr": "Pas de date séléctionnée"
                 },
-                "defaultValue":{
+                "defaultValue": {
                         "en": "Default value",
                         "fr": "Valeur par défault"
                 },
-                "planPreference":{
+                "planPreference": {
                         "en": "Plan specific preferences",
                         "fr": "Préferences spécific au planning"
                 },
-                "segment":{
+                "segment": {
                         "en": "Segment",
                         "fr": "Segment"
                 },
-                "nonAffected":{
+                "nonAffected": {
                         "en": "Not afected",
                         "fr": "Non affecté"
                 },
-                "removeAffectation":{
+                "removeAffectation": {
                         "en": "Remove affectation",
                         "fr": "Retirer l'affectation"
                 }
-
+        },
+        "accessRights": {
+                "associationCode": {
+                        "en": "Team association code",
+                        "fr": "Code d'association à l'équipe"
+                },
+                "accessRights": {
+                        "en": "Access rights of connected accounts",
+                        "fr": "Droit d'accès des comptes connectés"
+                }
         }
 }
