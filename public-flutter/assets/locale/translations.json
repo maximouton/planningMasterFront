@@ -70,7 +70,11 @@
         "activity": {
                 "segmentsType": {
                         "en": "Segment type:",
-                        "fr": "Type de segement:"
+                        "fr": "Type de segment:"
+                },
+                "segment": {
+                        "en": "Segment",
+                        "fr": "Segment:"
                 },
                 "segmentsMessage": {
                         "en": "Segments help segregate main types of activities. This useful when you want to set preference based on activity type. Typical segregation is between days and night activities but you may use this segregation for any types of activity.",
@@ -155,6 +159,30 @@
                 "workingTime": {
                         "en": "Weekly working time",
                         "fr": "Temps de travail hebdomadaire"
+                },
+                "startTime": {
+                        "en": "Start ",
+                        "fr": "Début"
+                },
+                "endTime": {
+                        "en": "End",
+                        "fr": "Fin"
+                },
+                "delete": {
+                        "en": "Delete",
+                        "fr": "Supprimer"
+                },
+                "hours": {
+                        "en": "hours",
+                        "fr": "heures"
+                },
+                "selectAll": {
+                        "en": "Select all",
+                        "fr": "Tout sélectionner"
+                },
+                "selectNone": {
+                        "en": "Select none",
+                        "fr": "Ne rien sélectionner"
                 }
         },
         "preference": {
@@ -206,6 +234,10 @@
                         "en": "Occurence of activities in a raw",
                         "fr": "Occurance d'enchainement d'activités"
                 },
+                "activityCompatibility": {
+                        "en": "Activities compatibility",
+                        "fr": "Compatibilité d'activités"
+                },
                 "period": {
                         "en": "Over a period of",
                         "fr": "Sur une période de"
@@ -213,6 +245,10 @@
                 "activityType": {
                         "en": "Activity types:",
                         "fr": "Types d'activité:"
+                },
+                "segmentType": {
+                        "en": "Segment",
+                        "fr": "Segment"
                 },
                 "segment": {
                         "en": "Segments:",
@@ -279,16 +315,12 @@
                         "fr": "x%"
                 },
                 "lowerBound": {
-                        "en": "lower bound",
-                        "fr": "valeur minimum"
+                        "en": "Lower bound",
+                        "fr": "Minimum"
                 },
                 "upperBound": {
-                        "en": "upper bound",
-                        "fr": "valeur maximum"
-                },
-                "stepName": {
-                        "en": "step name",
-                        "fr": "nom du step"
+                        "en": "Upper bound",
+                        "fr": "Maximum"
                 },
                 "inputType": {
                         "en": "The rule apply on...",
@@ -321,6 +353,62 @@
                 "thisRule": {
                         "en": "Please set the rule.",
                         "fr": "Veuillez configurer la règle"
+                },
+                "removeRule": {
+                        "en": "Remove this rule",
+                        "fr": "Supprimer cette règle"
+                },
+                "operatorDD": {
+                        "en": "Operator",
+                        "fr": "Opérateur"
+                },
+                "lowerBoundVal": {
+                        "en": "Min",
+                        "fr": "Min"
+                },
+                "upperBoundVal": {
+                        "en": "Max",
+                        "fr": "Max"
+                },
+                "refValOperator": {
+                        "en": "Operator",
+                        "fr": "Operateur"
+                },
+                "scaleName": {
+                        "en": "Step name",
+                        "fr": "Echellon"
+                },
+                "scope": {
+                        "en": "Rule scope",
+                        "fr": "Etendue de la règle"
+                },
+                "inputVal": {
+                        "en": "Input value",
+                        "fr": "Valeur d'entrée"
+                },
+                "firstActivity": {
+                        "en": "First activity",
+                        "fr": "Première activité"
+                },
+                "compatibilityRule": {
+                        "en": "Rule",
+                        "fr": "Règle"
+                },
+                "secondActivity": {
+                        "en": "Second activity",
+                        "fr": "Deuxième activité"
+                },
+                "mustBeFollowed": {
+                        "en": "Must be followed by",
+                        "fr": "Doit être suivi par"
+                },
+                "mustNotBeFollowed": {
+                        "en": "Must not be followed by",
+                        "fr": "Ne doit pas être suivi par"
+                },
+                "assActivityCompatibility": {
+                        "en": "Add a rule",
+                        "fr": "Ajouter une règle"
                 }
         },
         "memberDetails": {
