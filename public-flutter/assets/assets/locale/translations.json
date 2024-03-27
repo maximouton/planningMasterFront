@@ -509,6 +509,14 @@
                 "removeAffectation": {
                         "en": "Remove affectation",
                         "fr": "Retirer l'affectation"
+                },
+                "generate": {
+                        "en": "Generate the plan",
+                        "fr": "Générer le planning"
+                },
+                "emptyPlan": {
+                        "en": "Empty the plan",
+                        "fr": "Vider le planning"
                 }
         },
         "accessRights": {
