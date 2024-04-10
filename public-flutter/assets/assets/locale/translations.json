@@ -32,9 +32,47 @@
                         "en": "Activities",
                         "fr": "Activités"
                 },
+                "planPreference": {
+                        "en": "Plan specific planning rules",
+                        "fr": "Règles spécifiques au planning"
+                },
+                "genericPreference": {
+                        "en": "Planning rules",
+                        "fr": "Règles de plannng"
+                },
+                "affinityRules": {
+                        "en": "Co-working rules",
+                        "fr": "Règles de travail en commun"
+                },
+                "memberList": {
+                        "en": "List of team members",
+                        "fr": "Liste des membres de l'équipe"
+                },
+                "memberName": {
+                        "en": "Team member",
+                        "fr": "Membre d'équipe"
+                },
                 "team": {
                         "en": "Team's members",
                         "fr": "Membre de l'équipe"
+                },
+                "defaultValue": {
+                        "en": "Default value",
+                        "fr": "Valeur par défault"
+                },
+                "ruleValue": {
+                        "en": "Plan name",
+                        "fr": "Nom du planning"
+                },
+                "addAffinityGroup": {
+                        "en": "Add a co-working rule",
+                        "fr": "Ajouter une règle de travail en commun"
+                },"delete": {
+                        "en": "Delete",
+                        "fr": "Supprimer"
+                },"affinities": {
+                        "en": "Co-working rule",
+                        "fr": "Règle de travail en commun"
                 }
         },
         "home": {
@@ -443,6 +481,14 @@
                 "confirm": {
                         "en": "Confirm",
                         "fr": "Valider"
+                },
+                "addMember": {
+                        "en": "Add new team member",
+                        "fr": "Ajouter un membre d'équipe"
+                },
+                "removePerson": {
+                        "en": "Remove team member",
+                        "fr": "Supprimer le membre d'équipe"
                 }
         },
         "planning": {
@@ -457,10 +503,6 @@
                 "startHere": {
                         "en": "Start here",
                         "fr": "Commencer ici"
-                },
-                "name": {
-                        "en": "Plan name",
-                        "fr": "Nom du planning"
                 },
                 "draft": {
                         "en": "Draft",
@@ -482,21 +524,9 @@
                         "en": "Non-working days",
                         "fr": "Fériés"
                 },
-                "memberName": {
-                        "en": "Team member",
-                        "fr": "Membre d'équipe"
-                },
                 "noFeries": {
                         "en": "No Non-working days selected",
                         "fr": "Pas de date séléctionnée"
-                },
-                "defaultValue": {
-                        "en": "Default value",
-                        "fr": "Valeur par défault"
-                },
-                "planPreference": {
-                        "en": "Plan specific preferences",
-                        "fr": "Préferences spécific au planning"
                 },
                 "segment": {
                         "en": "Segment",
@@ -517,6 +547,14 @@
                 "emptyPlan": {
                         "en": "Empty the plan",
                         "fr": "Vider le planning"
+                },
+                "name": {
+                        "en": "Planning title",
+                        "fr": "Titre du planning"
+                },
+                "removePlan": {
+                        "en": "Remove plan",
+                        "fr": "Supprimer le planning"
                 }
         },
         "accessRights": {
