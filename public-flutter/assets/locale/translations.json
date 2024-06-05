@@ -67,10 +67,12 @@
                 "addAffinityGroup": {
                         "en": "Add a co-working rule",
                         "fr": "Ajouter une règle de travail en commun"
-                },"delete": {
+                },
+                "delete": {
                         "en": "Delete",
                         "fr": "Supprimer"
-                },"affinities": {
+                },
+                "affinities": {
                         "en": "Co-working rule",
                         "fr": "Règle de travail en commun"
                 }
@@ -555,6 +557,22 @@
                 "removePlan": {
                         "en": "Remove plan",
                         "fr": "Supprimer le planning"
+                },
+                "targetHours": {
+                        "en": "Target working time",
+                        "fr": "Objectif d'heures"
+                },
+                "reelHours": {
+                        "en": "Affected working time",
+                        "fr": "Heures affectée"
+                },
+                "rule": {
+                        "en": "Rule",
+                        "fr": "Règle"
+                },
+                "editionMode": {
+                        "en": "Edition mode: ",
+                        "fr": "Mode d'édition : "
                 }
         },
         "accessRights": {
