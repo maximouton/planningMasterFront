@@ -75,6 +75,10 @@
                 "affinities": {
                         "en": "Co-working rule",
                         "fr": "Règle de travail en commun"
+                },
+                "cancel": {
+                        "en": "Cancel",
+                        "fr": "Annuler"
                 }
         },
         "home": {
