@@ -8,6 +8,22 @@
                         "en": "Confirm",
                         "fr": "Valider"
                 },
+                "confirm&nextStep": {
+                        "en": "Confirm & continue\n to next step",
+                        "fr": "Valider & passer\n à l'étape suivante"
+                },
+                "nextStep": {
+                        "en": "Continue to next step",
+                        "fr": "Passer\n à l'étape suivante"
+                },
+                "confirm&finishWizard": {
+                        "en": "Confirm & finish\n configuration",
+                        "fr": "Valider & finir\n la configuration"
+                },
+                "previousStep": {
+                        "en": "Back to previous step",
+                        "fr": "Retour à l'étape précédente"
+                },
                 "addOrJoinTeam": {
                         "en": "Create or join team",
                         "fr": "Créer ou rejoindre une équipe"
