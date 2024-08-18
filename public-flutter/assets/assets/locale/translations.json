@@ -4,6 +4,10 @@
                         "en": "Please enter a value",
                         "fr": "Veuillez saisir une valeur"
                 },
+                "invalidValue": {
+                        "en": "Invalid value",
+                        "fr": "Valeur invalide"
+                },
                 "confirm": {
                         "en": "Confirm",
                         "fr": "Valider"
@@ -43,6 +47,10 @@
                 "configuration": {
                         "en": "Configuration",
                         "fr": "Configuration"
+                },
+                "generalSettings": {
+                        "en": "General settings",
+                        "fr": "Configuration générale"
                 },
                 "activities": {
                         "en": "Activities",
